@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi, I'm Sayan <code>a.k.a Seyan</code></h3>
+<h3 align="center">👋 Hi, I'm Sayan J. Das <code>a.k.a Seyan</code></h3>
 <p align="center">
   <a href="https://seyan.me/">Website</a> •
   <a href="https://www.linkedin.com/in/sayanjyotidas">Linkedin</a>
