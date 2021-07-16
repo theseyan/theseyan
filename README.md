@@ -6,10 +6,10 @@
 </p>
 
 ---
-✨ I'm a Full Stack Web Developer who prefers vanilla JavaScript over heavy frameworks. I have valuable experience in performing DevOps, cooking up highly available & scalable backend systems, and devising efficient database schemas.
+✨ I`m a Full Stack Web Developer who prefers vanilla JavaScript over heavy frameworks. I have a long history in DevOps, cooking up highly available & scalable backend systems, and devising efficient database schemas.
 
-I frequently contribute to the Open Source community whenever I can admist working on some of my own projects.
-When I'm not behind the computer screen, you can find me riding my bicycle and playing football.
+I contribute to the Open Source community whenever I can amidst working on some of my own projects.
+When I'm not behind the computer screen, you can find me riding a bicycle and playing football.
 
  
 - 🌱 I’m currently learning Golang
