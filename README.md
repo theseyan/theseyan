@@ -6,13 +6,12 @@
 </p>
 
 ---
-✨ I`m a Full Stack Web Developer who prefers vanilla JavaScript over heavy frameworks. I have a long history in DevOps, cooking up highly available & scalable backend systems, and devising efficient database schemas.
+✨ I am a Full Stack Developer with a long history in DevOps, cooking up highly available & scalable backend systems, and devising efficient database schemas.
 
-I contribute to the Open Source community whenever I can amidst working on some of my own projects.
+I contribute to the Open Source community whenever time permits amidst working on my own projects.
 When I'm not behind the computer screen, you can find me riding a bicycle and playing football.
 
  
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about REST APIs and web development :)
+- 🌱 I’m currently messing with Golang
+- 💬 Ask me about everything programming
 - 📫 How to reach me: [me@seyan.me](mailto:me@seyan.me)
-- ⚡ Fun fact: I listen to indie music and love puppies
